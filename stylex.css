@@ -1,0 +1,40 @@
+h4{
+    color: var(--F74780, #F74780);
+
+}
+h4:hover{
+    color: var(--FFA7C3, #FFA7C3);
+}
+nav{
+    background: var(--13183F, #13183F);
+    width: 1440px;
+height: 120px;
+flex-shrink: 0;
+}
+.logo{
+    padding:39px 38px 1161px 165px;
+}
+.btn{
+    color: var(--FFFFFF, #FFF);
+font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 155.556% */
+border-radius: 28px;
+background: linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+width: 167px;
+height: 56px;
+flex-shrink: 0;
+padding: 0px 0px 0px 0px;
+}
+.btn:hover{
+    background: var(--Gradient-2-Hover, linear-gradient(0deg, rgba(255, 255, 255, 0.50) 0%, rgba(255, 255, 255, 0.50) 100%), linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%));
+
+}
+.btnn{
+    padding: 28px 0px 0px 687px
+}
+h6{
+    padding:39px 38px 1161px 165px;;
+}
